@@ -1,0 +1,1 @@
+0-30 19 * * * /bin/bash /Users/zhangjie/Documents/work/auto-push/autopush.sh
